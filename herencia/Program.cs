@@ -10,6 +10,7 @@ namespace herencia
     //clase mamá
     class Operacion
     {
+        //este es un comentario 26 de abril de 2024
         /*guarda los espacios de memoria de 3 valores*/
         //modificador tipo de dato nombre 
         protected       int     valor1;
